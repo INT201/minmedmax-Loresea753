@@ -29,5 +29,5 @@ function minMedMax(n1, n2, n3){
 
   }
 
- 
+ console.log(minMedMax(85, 30, 1))
 module.exports = minMedMax
