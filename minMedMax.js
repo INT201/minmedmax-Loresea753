@@ -25,7 +25,7 @@ function minMedMax(n1, n2, n3){
       }
     }
   }
-    return {min: num[0], med: num[1], max: num[2]}
+    return {min: num[0], mid: num[1], max: num[2]}
 
   }
 
